@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/views/NhanVien/Header.jsp=UTF-8
+encoding//src/Controllers/KhachhangController.java=UTF-8
+encoding//src/Controllers/LaySanPhamController.java=UTF-8
+encoding//src/Controllers/NV_HoaDonController.java=UTF-8
+encoding//src/Controllers/NV_SanPhamController.java=UTF-8
+encoding//src/Controllers/NV_ThongTinController.java=UTF-8
+encoding//src/Controllers/NV_TinTucController.java=UTF-8
+encoding//src/Entity/KhachHang.java=UTF-8
+encoding//src/Entity/SanPham.java=UTF-8
